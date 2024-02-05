@@ -4,4 +4,4 @@ View Model is a lifecycle aware class, designed to store and manage UI related d
  <br><br>
 To create view models that take arguments we need ViewModelFactory which then creates the instance of parameterized view model instance.
 <br><br>
-Author - Amir Sohail
+Author - Amir
